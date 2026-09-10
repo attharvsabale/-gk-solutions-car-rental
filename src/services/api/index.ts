@@ -1,0 +1,6 @@
+export { mockCarsApi as carsApi } from './carsApi'
+export { mockLocationsApi as locationsApi } from './locationsApi'
+export { mockAuthApi as authApi } from './authApi'
+export { mockBookingsApi as bookingsApi } from './bookingsApi'
+export { mockPaymentsApi as paymentsApi } from './paymentsApi'
+export { mockExtrasApi as extrasApi } from './extrasApi'
