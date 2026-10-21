@@ -34,7 +34,7 @@ export default function Contact() {
 
       <div className="mt-8 grid grid-cols-1 gap-10 lg:grid-cols-[1fr_1.2fr]">
         <div className="flex flex-col gap-5">
-          <ContactInfo icon={Phone} title="Call / WhatsApp" detail="9657921567" href="tel:+919657921567" />
+          <ContactInfo icon={Phone} title="Call / WhatsApp" detail="9359195760" href="tel:+919359195760" />
           <ContactInfo icon={Mail} title="Email" detail="gksolution567@gmail.com" href="mailto:gksolution567@gmail.com" />
           <ContactInfo icon={Clock} title="Hours" detail="7:00 AM – 9:00 PM, every day" />
           <ContactInfo icon={MapPin} title="Pickup location" detail="Hinjewadi, Pune" />

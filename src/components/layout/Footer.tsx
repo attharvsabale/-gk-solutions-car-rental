@@ -35,7 +35,7 @@ const columns = [
 const socialLinks = [
   { icon: AtSign, label: 'Instagram', href: 'https://instagram.com/gksolutions_pune' },
   { icon: ThumbsUp, label: 'Facebook', href: '#' },
-  { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/919657921567' },
+  { icon: MessageCircle, label: 'WhatsApp', href: 'https://wa.me/919359195760' },
 ]
 
 export function Footer() {

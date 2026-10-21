@@ -14,7 +14,7 @@ export const locations: RentalLocation[] = [
     latitude: 18.5913,
     longitude: 73.7389,
     openingHours: '7:00 AM – 9:00 PM',
-    phone: '9657921567',
+    phone: '9359195760',
     type: 'city',
   },
 ]
